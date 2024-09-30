@@ -1,0 +1,12 @@
+{
+   "cdn_gateway":[
+      "https://cdn.vgm.tv",
+      "https://cdn1.vgm.tv",
+      "https://stream.vgm.tv",
+      "https://cdn-ct.vgm.tv"
+   ],
+   "fallback_gateway":[
+      "https://stream.qazwsxedc1901.me"
+   ],
+  "hash": "QmXMoYokxv6J2VDHTauyCJt8xUmKHkvupjiRnidKp4YHWe"
+}
