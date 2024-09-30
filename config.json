@@ -8,5 +8,6 @@
    "fallback_gateway":[
       "https://stream.qazwsxedc1901.me"
    ],
-  "hash": "QmXMoYokxv6J2VDHTauyCJt8xUmKHkvupjiRnidKp4YHWe"
+  "hash": "QmXMoYokxv6J2VDHTauyCJt8xUmKHkvupjiRnidKp4YHWe",
+   "ipfs_gateway":"http://localhost:8080"
 }
